@@ -1,0 +1,22 @@
+﻿##don't add si prj
+/LoRaWAN/prj/obj
+/LoRa-P2P/prj/obj
+
+##don't add si prj
+/LoRaWAN/si
+/LoRa-P2P/si
+
+#don't add *.o
+*.o
+
+#don't add *.orig
+*.orig
+
+#don't add MDK gui file
+*.uvguix.*
+
+#don't add Jlink settings file
+JLinkLog.txt
+JLinkSettings.ini
+
+*-冲突-*.h

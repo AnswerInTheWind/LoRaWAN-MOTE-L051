@@ -1,0 +1,11 @@
+.\objects\regioncn779.o: ..\src\mac\region\RegionCN779.c
+.\objects\regioncn779.o: ..\src\boards\driver\utilities.h
+.\objects\regioncn779.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\regioncn779.o: ..\src\mac\region\RegionCommon.h
+.\objects\regioncn779.o: ..\src\mac\LoRaMac.h
+.\objects\regioncn779.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\regioncn779.o: ..\src\system\timer.h
+.\objects\regioncn779.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\regioncn779.o: ..\src\radio\radio.h
+.\objects\regioncn779.o: ..\src\mac\region/Region.h
+.\objects\regioncn779.o: ..\src\mac\region\RegionCN779.h

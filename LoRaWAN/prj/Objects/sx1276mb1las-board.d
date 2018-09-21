@@ -1,0 +1,16 @@
+.\objects\sx1276mb1las-board.o: ..\src\boards\driver\sx1276mb1las-board.c
+.\objects\sx1276mb1las-board.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\sx1276mb1las-board.o: ..\src\boards\driver\utilities.h
+.\objects\sx1276mb1las-board.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sx1276mb1las-board.o: ..\src\boards\driver\board-config.h
+.\objects\sx1276mb1las-board.o: ..\src\system\delay.h
+.\objects\sx1276mb1las-board.o: ..\src\radio\radio.h
+.\objects\sx1276mb1las-board.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\sx1276mb1las-board.o: ..\src\boards\driver\sx1276-board.h
+.\objects\sx1276mb1las-board.o: ..\src\radio\sx1276/sx1276.h
+.\objects\sx1276mb1las-board.o: ..\src\system\gpio.h
+.\objects\sx1276mb1las-board.o: ..\src\boards\driver\pinName-board.h
+.\objects\sx1276mb1las-board.o: ..\src\boards\driver\pinName-ioe.h
+.\objects\sx1276mb1las-board.o: ..\src\system\spi.h
+.\objects\sx1276mb1las-board.o: ..\src\radio\sx1276/sx1276Regs-Fsk.h
+.\objects\sx1276mb1las-board.o: ..\src\radio\sx1276/sx1276Regs-LoRa.h

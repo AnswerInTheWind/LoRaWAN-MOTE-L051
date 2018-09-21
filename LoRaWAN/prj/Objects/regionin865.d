@@ -1,0 +1,11 @@
+.\objects\regionin865.o: ..\src\mac\region\RegionIN865.c
+.\objects\regionin865.o: ..\src\boards\driver\utilities.h
+.\objects\regionin865.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\regionin865.o: ..\src\mac\region\RegionCommon.h
+.\objects\regionin865.o: ..\src\mac\LoRaMac.h
+.\objects\regionin865.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\regionin865.o: ..\src\system\timer.h
+.\objects\regionin865.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\regionin865.o: ..\src\radio\radio.h
+.\objects\regionin865.o: ..\src\mac\region/Region.h
+.\objects\regionin865.o: ..\src\mac\region\RegionIN865.h
